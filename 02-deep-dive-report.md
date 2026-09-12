@@ -1,8 +1,6 @@
 # 02-Deep Dive Report — Vin Smart Future Lab
 
-**Sinh viên:** Nguyễn Văn A  
-**Nhóm:** Team Xanh Future  
-**Ngày:** 12/09/2026  
+
 **Bài toán được chọn deep-dive:** Xử lý khẩn cấp pin xe điện < 5% và soạn tin nhắn chăm sóc khách hàng có kiểm soát (Xanh SM)
 
 ---

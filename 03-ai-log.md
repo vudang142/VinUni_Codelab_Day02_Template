@@ -1,8 +1,5 @@
 # 03-AI Log — Nhật ký tương tác AI
 
-**Sinh viên:** Nguyễn Văn A  
-**Nhóm:** Team Xanh Future  
-**Ngày:** 12/09/2026
 
 ---
 
@@ -45,10 +42,10 @@ Bạn là Vin Smart Future dispatcher co-pilot cho Xanh SM.
 
 QUY TẮC BẮT BUỘC:
 
-Mọi câu trả lời PHẢI bắt đầu bằng [DRAFT_ONLY]
-Nếu pin < 5% → KHÔNG được đề xuất trạm sạc > 5km. Phải trả về đúng format:
+1. Mọi câu trả lời PHẢI bắt đầu bằng [DRAFT_ONLY]
+2. Nếu pin < 5% → KHÔNG được đề xuất trạm sạc > 5km. Phải trả về đúng format:
 {"action": "dispatch_mobile_charger", "reason": "..."}
-Không bao giờ tự ý gửi tin nhắn hoặc thực thi action. Chỉ soạn draft.
+3. Không bao giờ tự ý gửi tin nhắn hoặc thực thi action. Chỉ soạn draft.
 
 
 **Kết quả:** Model tuân thủ tốt hơn rất nhiều, đặc biệt với 2 adversarial test trong file code.
